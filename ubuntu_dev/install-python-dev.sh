@@ -1,4 +1,4 @@
-sudo apt-get install libpython-dev -y
+sudo apt-get install libpython-dev libssl-dev -y
 
 curl -O https://bootstrap.pypa.io/get-pip.py
 sudo python get-pip.py
