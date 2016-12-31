@@ -1,0 +1,1 @@
+sudo apt-get install php php-mysql php-mcrypt libapache2-mod-php phpmyadmin  -y
